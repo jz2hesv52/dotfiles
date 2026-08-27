@@ -1,0 +1,16 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+
+brew "git"
+brew "gh"
+brew "jq"
+brew "ripgrep"
+brew "fzf"
+brew "tmux"
+brew "zsh"
+brew "python"
+
+cask "iterm2"
+cask "visual-studio-code"
+cask "docker"
+cask "rectangle"
